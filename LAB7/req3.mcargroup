@@ -1,0 +1,8 @@
+[PROJECTS]
+Count=4
+Project0=..\LAB6\requirment2\MyProject.mcpar
+Project1=req1.mcpar
+Project2=req2.mcpar
+Project3=req3.mcpar
+[ActiveProject]
+Index=3
